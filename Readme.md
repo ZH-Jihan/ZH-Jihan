@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" content="center">
   <h1>Visitor - <img src="https://profile-counter.glitch.me/ZH-Jihan/count.svg?"  /></h1>
   
 </div>
