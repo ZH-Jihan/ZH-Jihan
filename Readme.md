@@ -1,22 +1,9 @@
 <div align="center" content="center">
-  <h1>Visitor - <img src="https://profile-counter.glitch.me/ZH-Jihan/count.svg?"  /></h1>
-  
+  <img src="https://profile-counter.glitch.me/ZH-Jihan/count.svg?"  />
 </div>
-
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/96989919?v=4"  />
-
-###
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-#
 ![](https://nirzak-streak-stats.vercel.app/?user=ZH-Jihan&theme=radical&hide_border=false)<br/>
 
 ## 🌐 Socials:
