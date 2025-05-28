@@ -9,7 +9,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-# 📊 GitHub Stats:
+#
 ![](https://nirzak-streak-stats.vercel.app/?user=ZH-Jihan&theme=radical&hide_border=false)<br/>
 
 ## 🌐 Socials:
