@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/96989919?v=4)"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/96989919?v=4"  />
 
 ###
 
