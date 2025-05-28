@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ZH-Jihan/count.svg?"  />
+  Visitor - <img src="https://profile-counter.glitch.me/ZH-Jihan/count.svg?"  />
 </div>
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
