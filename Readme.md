@@ -2,6 +2,8 @@
   <img src="https://profile-counter.glitch.me/ZH-Jihan/count.svg?"  />
 </div>
 
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
